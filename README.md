@@ -35,7 +35,7 @@ Retrieve NFT transaction data, clean and process it, and create visualizations t
 ### Steps to Set Up the Environment
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/cryptopunks-analysis.git
+    git clone https://github.com/Deba951/cryptopunks-analysis.git
     cd cryptopunks-analysis
     ```
 
